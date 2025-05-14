@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: "https://github.com/Navarasan08/learnify-config-server.git"
+          uri: https://github.com/Navarasan08/learnify-config-repo.git
           default-label: main
 
 eureka:
