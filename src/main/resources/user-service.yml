@@ -7,7 +7,7 @@ spring:
     name: user-service
 
   datasource:
-    url: jdbc://postgresql://localhost:5432/learnify
+    url: jdbc:postgresql://localhost:5432/learnify
     username: postgres
     password: admin
     driver-class-name: org.postgres.Driver
